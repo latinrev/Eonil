@@ -1,6 +1,6 @@
 {
 	"name": "eonil",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A small wrapper for express/socketio to create servers in one line",
 	"main": "index.js",
 	"scripts": {

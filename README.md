@@ -4,7 +4,6 @@
 
 ## Eonil is a wrapper for [Express](https://www.npmjs.com/package/express) and [SocketIO](https://www.npmjs.com/package/socket.io) to create a server in one line! (you can choose whether to use express alone or express+socketio)
 
-
 # Installation
 
 This is done using the npm install command:
