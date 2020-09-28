@@ -1,6 +1,6 @@
 # Eonil
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![Known Vulnerabilities](https://snyk.io/test/github/latinrev/Eonil/badge.svg?targetFile=package.json)](https://snyk.io/test/github/latinrev/Eonil?targetFile=package.json)
 
 ## Eonil is a wrapper for [Express](https://www.npmjs.com/package/express) and [SocketIO](https://www.npmjs.com/package/socket.io) to create a server in one line! (you can choose whether to use express alone or express+socketio)
 
