@@ -1,0 +1,32 @@
+{
+	"name": "eonil",
+	"version": "1.0.0",
+	"description": "A small wrapper for express/socketio to create servers in one line",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/"
+	},
+	"keywords": [
+		"express",
+		"wrapper",
+		"web",
+		"api",
+		"restful",
+		"realtime",
+		"server",
+		"client",
+		"socket",
+		"io"
+	],
+	"author": "Joel Castillo",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.17.1",
+		"socket.io": "^2.3.0"
+	},
+	"devDependencies": {}
+}
